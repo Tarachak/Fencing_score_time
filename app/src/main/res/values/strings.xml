@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BluetoothMobileFencingScore</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="START">START</string>
+    <string name="STOP">STOP</string>
+    <string name="RESET">RESET</string>
+    <string name="TYTUL">Pierwsza_aplikacja</string>
+    <string name="PZSZERM">link_do_PZSZERM</string>
+    <string name="title_activity_yellow__card">Yellow_Card</string>
+    <string name="yellow_card">Yellow_Card</string>
+    <string name="red_card">Red_Card</string>
+    <string name="minus_left">-</string>
+    <string name="minus_right">-</string>
+    <string name="plus_left">+</string>
+    <string name="plus_right">+</string>
+    <string name="Timer_3min">3min</string>
+    <string name="Timer_1min">1min</string>
+    <string name="editTextHint">Enter Time in Seconds</string>
+    <string name="startCountDown">Start Count Down</string>
+    <string name="stopCountDown">Stop Count Down</string>
+    <string name="resumeCountDown">Resume Count Down</string>
+    <string name="BluetoothConnecton">Bluetooth</string>
+
+    <string name="disconect">disconect</string>
+</resources>
